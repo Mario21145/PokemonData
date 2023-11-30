@@ -249,19 +249,6 @@
             "hp": 125,
             "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/171.png",
             "description": "Lanturn is known to cause flashes of lightening..."
-        },
-        {
-            "id": 172,
-            "name": "Lanturn",
-            "types": [
-                "Water",
-                "Electric"
-            ],
-            "weight": "22.5 kg",
-            "height": "1.2 m",
-            "hp": 125,
-            "imageUrl": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/171.png",
-            "description": "Lanturn is known to cause flashes of lightening..."
         }
     ]
 }
