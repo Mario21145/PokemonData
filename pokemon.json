@@ -1,6 +1,6 @@
 {
 "generation": 2,
-"pokemon" =[
+"pokemon" : [
     {
         "id": 152,
         "name": "Chikorita",
@@ -250,5 +250,5 @@
         "imageUrl": "https://serebii.net/pokemon/art/171.png",
         "description": "Lanturn is known to cause flashes of lightening..."
     }
-]
+  ]
 }
