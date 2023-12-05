@@ -1,254 +1,1005 @@
 {
     "generation": 2,
     "pokemon": [
-        {
-            "id": 152,
-            "name": "Chikorita",
-            "types": [
-                "Grass"
-            ],
-            "weight": "6.4 kg",
-            "height": "0.9 m",
-            "hp": 45,
-            "imageUrl": "https://serebii.net/pokemon/art/152.png",
-            "description": "Chikorita is a small, dinosaurian Pokémon"
-        },
-        {
-            "id": 153,
-            "name": "Bayleef",
-            "types": [
-                "Grass"
-            ],
-            "weight": "15.8 kg",
-            "height": "1.2 m",
-            "hp": 60,
-            "imageUrl": "https://serebii.net/pokemon/art/153.png",
-            "description": "Bayleef's neck is ringed with curled-up leaves..."
-        },
-        {
-            "id": 154,
-            "name": "Meganium",
-            "types": [
-                "Grass"
-            ],
-            "weight": "100.5 kg",
-            "height": "1.8 m",
-            "hp": 80,
-            "imageUrl": "https://serebii.net/pokemon/art/154.png",
-            "description": "The fragrance of Meganium's flower soothes and calms emotions..."
-        },
-        {
-            "id": 155,
-            "name": "Cyndaquil",
-            "types": [
-                "Fire"
-            ],
-            "weight": "7.9 kg",
-            "height": "0.5 m",
-            "hp": 39,
-            "imageUrl": "https://serebii.net/pokemon/art/155.png",
-            "description": "Cyndaquil protects itself by flaring up the flames on its back..."
-        },
-        {
-            "id": 156,
-            "name": "Quilava",
-            "types": [
-                "Fire"
-            ],
-            "weight": "19.0 kg",
-            "height": "0.9 m",
-            "hp": 58,
-            "imageUrl": "https://serebii.net/pokemon/art/156.png",
-            "description": "Quilava keeps its foes at bay with the intensity of its flames..."
-        },
-        {
-            "id": 157,
-            "name": "Typhlosion",
-            "types": [
-                "Fire"
-            ],
-            "weight": "79.5 kg",
-            "height": "1.7 m",
-            "hp": 78,
-            "imageUrl": "https://serebii.net/pokemon/art/157.png",
-            "description": "Typhlosion obscures itself behind a shimmering heat haze..."
-        },
-        {
-            "id": 158,
-            "name": "Totodile",
-            "types": [
-                "Water"
-            ],
-            "weight": "9.5 kg",
-            "height": "0.6 m",
-            "hp": 50,
-            "imageUrl": "https://serebii.net/pokemon/art/158.png",
-            "description": "Totodile is very energetic and likes to play by biting..."
-        },
-        {
-            "id": 159,
-            "name": "Croconaw",
-            "types": [
-                "Water"
-            ],
-            "weight": "25.0 kg",
-            "height": "1.1 m",
-            "hp": 65,
-            "imageUrl": "https://serebii.net/pokemon/art/159.png",
-            "description": "Croconaw's jaws are very powerful and can crush anything..."
-        },
-        {
-            "id": 160,
-            "name": "Feraligatr",
-            "types": [
-                "Water"
-            ],
-            "weight": "88.8 kg",
-            "height": "2.3 m",
-            "hp": 85,
-            "imageUrl": "https://serebii.net/pokemon/art/160.png",
-            "description": "Feraligatr intimidates its foes by opening its huge mouth..."
-        },
-        {
-            "id": 161,
-            "name": "Sentret",
-            "types": [
-                "Normal"
-            ],
-            "weight": "6.0 kg",
-            "height": "0.8 m",
-            "hp": 35,
-            "imageUrl": "https://serebii.net/pokemon/art/161.png",
-            "description": "Sentret is a good lookout because it keeps itself standing..."
-        },
-        {
-            "id": 162,
-            "name": "Furret",
-            "types": [
-                "Normal"
-            ],
-            "weight": "32.5 kg",
-            "height": "1.8 m",
-            "hp": 85,
-            "imageUrl": "https://serebii.net/pokemon/art/162.png",
-            "description": "Furret can run straight for a whole day without rest..."
-        },
-        {
-            "id": 163,
-            "name": "Hoothoot",
-            "types": [
-                "Normal",
-                "Flying"
-            ],
-            "weight": "21.2 kg",
-            "height": "0.7 m",
-            "hp": 60,
-            "imageUrl": "https://serebii.net/pokemon/art/163.png",
-            "description": "Hoothoot has an internal organ that senses and tracks time..."
-        },
-        {
-            "id": 164,
-            "name": "Noctowl",
-            "types": [
-                "Normal",
-                "Flying"
-            ],
-            "weight": "40.8 kg",
-            "height": "1.6 m",
-            "hp": 100,
-            "imageUrl": "https://serebii.net/pokemon/art/164.png",
-            "description": "Noctowl never fails at catching prey in darkness..."
-        },
-        {
-            "id": 165,
-            "name": "Ledyba",
-            "types": [
-                "Bug",
-                "Flying"
-            ],
-            "weight": "10.8 kg",
-            "height": "1.0 m",
-            "hp": 40,
-            "imageUrl": "https://serebii.net/pokemon/art/165.png",
-            "description": "Ledyba secretes an aromatic fluid from where its legs join..."
-        },
-        {
-            "id": 166,
-            "name": "Ledian",
-            "types": [
-                "Bug",
-                "Flying"
-            ],
-            "weight": "35.6 kg",
-            "height": "1.4 m",
-            "hp": 55,
-            "imageUrl": "https://serebii.net/pokemon/art/166.png",
-            "description": "Ledian is said to be the most beautiful of all Butterfree..."
-        },
-        {
-            "id": 167,
-            "name": "Spinarak",
-            "types": [
-                "Bug",
-                "Poison"
-            ],
-            "weight": "8.5 kg",
-            "height": "0.5 m",
-            "hp": 40,
-            "imageUrl": "https://serebii.net/pokemon/art/167.png",
-            "description": "Spinarak has tiny hooked claws on its feet that enable it..."
-        },
-        {
-            "id": 168,
-            "name": "Ariados",
-            "types": [
-                "Bug",
-                "Poison"
-            ],
-            "weight": "33.5 kg",
-            "height": "1.1 m",
-            "hp": 70,
-            "imageUrl": "https://serebii.net/pokemon/art/168.png",
-            "description": "Ariados's feet are tipped with tiny hooked claws..."
-        },
-        {
-            "id": 169,
-            "name": "Crobat",
-            "types": [
-                "Poison",
-                "Flying"
-            ],
-            "weight": "75.0 kg",
-            "height": "1.8 m",
-            "hp": 85,
-            "imageUrl": "https://serebii.net/pokemon/art/169.png",
-            "description": "Crobat sneaks up on its intended prey using wings..."
-        },
-        {
-            "id": 170,
-            "name": "Chinchou",
-            "types": [
-                "Water",
-                "Electric"
-            ],
-            "weight": "12.0 kg",
-            "height": "0.5 m",
-            "hp": 75,
-            "imageUrl": "https://serebii.net/pokemon/art/170.png",
-            "description": "Chinchou lets loose positive and negative electrical..."
-        },
-        {
-            "id": 171,
-            "name": "Lanturn",
-            "types": [
-                "Water",
-                "Electric"
-            ],
-            "weight": "22.5 kg",
-            "height": "1.2 m",
-            "hp": 125,
-            "imageUrl": "https://serebii.net/pokemon/art/171.png",
-            "description": "Lanturn is known to cause flashes of lightening..."
-        }
-    ]
+    {
+        "id": 152,
+        "name": "Chikorita",
+        "types": ["Grass"],
+        "weight": "6.4 kg",
+        "height": "0.9 m",
+        "hp": 45,
+        "imageUrl": "https://serebii.net/pokemon/art/152.png",
+        "description": "A sweet aroma gently wafts from the leaf on its head. It is docile and loves to soak up the sun's rays."
+    },
+    {
+        "id": 153,
+        "name": "Bayleef",
+        "types": ["Grass"],
+        "weight": "15.8 kg",
+        "height": "1.2 m",
+        "hp": 60,
+        "imageUrl": "https://serebii.net/pokemon/art/153.png",
+        "description": "The scent of spices comes from around its neck. Somehow, sniffing it makes you want to fight."
+    },
+    {
+        "id": 154,
+        "name": "Meganium",
+        "types": ["Grass"],
+        "weight": "100.5 kg",
+        "height": "1.8 m",
+        "hp": 80,
+        "imageUrl": "https://serebii.net/pokemon/art/154.png",
+        "description": "The aroma that wafts from its flower mesmerizes and calms those nearby. In battle, it unleashes a soothing scent to gain the edge."
+    },
+    {
+        "id": 155,
+        "name": "Cyndaquil",
+        "types": ["Fire"],
+        "weight": "7.9 kg",
+        "height": "0.5 m",
+        "hp": 39,
+        "imageUrl": "https://serebii.net/pokemon/art/155.png",
+        "description": "It has a timid nature. If it is startled, the flames on its back burn more vigorously. It jets fire from its back to protect itself."
+    },
+    {
+        "id": 156,
+        "name": "Quilava",
+        "types": ["Fire"],
+        "weight": "19.0 kg",
+        "height": "0.9 m",
+        "hp": 58,
+        "imageUrl": "https://serebii.net/pokemon/art/156.png",
+        "description": "Be careful if it turns its back during battle. It means that it will attack with the fire on its back."
+    },
+    {
+        "id": 157,
+        "name": "Typhlosion",
+        "types": ["Fire"],
+        "weight": "79.5 kg",
+        "height": "1.7 m",
+        "hp": 78,
+        "imageUrl": "https://serebii.net/pokemon/art/157.png",
+        "description": "It has a secret, devastating move. It rubs its blazing fur together to cause huge explosions."
+    },
+    {
+        "id": 158,
+        "name": "Totodile",
+        "types": ["Water"],
+        "weight": "9.5 kg",
+        "height": "0.6 m",
+        "hp": 50,
+        "imageUrl": "https://serebii.net/pokemon/art/158.png",
+        "description": "Its well-developed jaws are powerful and capable of crushing anything. Even its trainer must be careful."
+    },
+    {
+        "id": 159,
+        "name": "Croconaw",
+        "types": ["Water"],
+        "weight": "25.0 kg",
+        "height": "1.1 m",
+        "hp": 65,
+        "imageUrl": "https://serebii.net/pokemon/art/159.png",
+        "description": "Once it bites, it won't stop until it loses its fangs. New fangs quickly grow into place, making it ready to bite again."
+    },
+    {
+        "id": 160,
+        "name": "Feraligatr",
+        "types": ["Water"],
+        "weight": "88.8 kg",
+        "height": "2.3 m",
+        "hp": 85,
+        "imageUrl": "https://serebii.net/pokemon/art/160.png",
+        "description": "It opens its huge mouth to intimidate enemies. In battle, it runs using its thick and powerful hind legs to charge at the foe with incredible speed."
+    },
+    {
+        "id": 161,
+        "name": "Sentret",
+        "types": ["Normal"],
+        "weight": "6.0 kg",
+        "height": "0.8 m",
+        "hp": 35,
+        "imageUrl": "https://serebii.net/pokemon/art/161.png",
+        "description": "It stands on its tail so it can see a long way. If it spots an enemy, it cries loudly to warn its kind."
+    },
+    {
+        "id": 162,
+        "name": "Furret",
+        "types": ["Normal"],
+        "weight": "32.5 kg",
+        "height": "1.8 m",
+        "hp": 85,
+        "imageUrl": "https://serebii.net/pokemon/art/162.png",
+        "description": "It makes a nest to suit its long and skinny body. The nest is impossible for other Pokémon to enter."
+    },
+    {
+        "id": 163,
+        "name": "Hoothoot",
+        "types": ["Normal", "Flying"],
+        "weight": "21.2 kg",
+        "height": "0.7 m",
+        "hp": 60,
+        "imageUrl": "https://serebii.net/pokemon/art/163.png",
+        "description": "It has a perfect sense of time. Whatever happens, it keeps rhythm by precisely tilting its head in time."
+    },
+    {
+        "id": 164,
+        "name": "Noctowl",
+        "types": ["Normal", "Flying"],
+        "weight": "40.8 kg",
+        "height": "1.6 m",
+        "hp": 100,
+        "imageUrl": "https://serebii.net/pokemon/art/164.png",
+        "description": "Its eyes are specially adapted. They concentrate even faint light and enable it to see in the dark."
+    },
+    {
+        "id": 165,
+        "name": "Ledyba",
+        "types": ["Bug", "Flying"],
+        "weight": "10.8 kg",
+        "height": "1.0 m",
+        "hp": 40,
+        "imageUrl": "https://serebii.net/pokemon/art/165.png",
+        "description": "They are timid and grow uneasy when not in a swarm with others of their kind. The pattern on their backs differs slightly from one to another."
+    },
+    {
+        "id": 166,
+        "name": "Ledian",
+        "types": ["Bug", "Flying"],
+        "weight": "35.6 kg",
+        "height": "1.4 m",
+        "hp": 55,
+        "imageUrl": "https://serebii.net/pokemon/art/166.png",
+        "description": "When the stars flicker in the night sky, it flutters about, scattering a glowing powder."
+    },
+    {
+        "id": 167,
+        "name": "Spinarak",
+        "types": ["Bug", "Poison"],
+        "weight": "8.5 kg",
+        "height": "0.5 m",
+        "hp": 40,
+        "imageUrl": "https://serebii.net/pokemon/art/167.png",
+        "description": "It spins a web using fine but durable thread. It then waits patiently for prey to be trapped."
+    },
+    {
+        "id": 168,
+        "name": "Ariados",
+        "types": ["Bug", "Poison"],
+        "weight": "33.5 kg",
+        "height": "1.1 m",
+        "hp": 70,
+        "imageUrl": "https://serebii.net/pokemon/art/168.png",
+        "description": "This Pokémon sets a trap by spinning a web with thin but strong silk. It waits motionlessly in the web for prey to arrive."
+    },
+    {
+        "id": 169,
+        "name": "Crobat",
+        "types": ["Poison", "Flying"],
+        "weight": "75.0 kg",
+        "height": "1.8 m",
+        "hp": 85,
+        "imageUrl": "https://serebii.net/pokemon/art/169.png",
+        "description": "It evolved from exposure to a special kind of radiation. It flies while emitting ultrasonic waves, which have a frequency of over 200,000 hertz."
+    },
+    {
+        "id": 170,
+        "name": "Chinchou",
+        "types": ["Water", "Electric"],
+        "weight": "12.0 kg",
+        "height": "0.5 m",
+        "hp": 75,
+        "imageUrl": "https://serebii.net/pokemon/art/170.png",
+        "description": "It shoots positive and negative electricity between the tips of its two antennae and zaps its enemies."
+    },
+    {
+        "id": 171,
+        "name": "Lanturn",
+        "types": ["Water", "Electric"],
+        "weight": "22.5 kg",
+        "height": "1.2 m",
+        "hp": 125,
+        "imageUrl": "https://serebii.net/pokemon/art/171.png",
+        "description": "Lanturn is known to emit light. If you peer down into the dark sea from a ship at night, you can sometimes see this Pokémon's light rising from the depths where it swims."
+    },
+    {
+        "id": 172,
+        "name": "Pichu",
+        "types": ["Electric"],
+        "weight": "2.0 kg",
+        "height": "0.3 m",
+        "hp": 20,
+        "imageUrl": "https://serebii.net/pokemon/art/172.png",
+        "description": "Despite its small size, it has electric pouches. Draining all of its electrical energy causes its tail to turn into ash."
+    },
+    {
+        "id": 173,
+        "name": "Cleffa",
+        "types": ["Fairy"],
+        "weight": "3.0 kg",
+        "height": "0.3 m",
+        "hp": 50,
+        "imageUrl": "https://serebii.net/pokemon/art/173.png",
+        "description": "On nights with many shooting stars, Cleffa can be seen dancing in a ring. They dance through the night and stop only at the break of day, when these Pokémon quench their thirst with the morning dew."
+    },
+    {
+        "id": 174,
+        "name": "Igglybuff",
+        "types": ["Normal", "Fairy"],
+        "weight": "1.0 kg",
+        "height": "0.3 m",
+        "hp": 90,
+        "imageUrl": "https://serebii.net/pokemon/art/174.png",
+        "description": "Igglybuff has a soft and plushy body that feels very much like a marshmallow. From this body wafts a gently sweet fragrance that soothes and calms the emotions of its foes."
+    },
+    {
+        "id": 175,
+        "name": "Togepi",
+        "types": ["Fairy"],
+        "weight": "1.5 kg",
+        "height": "0.3 m",
+        "hp": 35,
+        "imageUrl": "https://serebii.net/pokemon/art/175.png",
+        "description": "As its energy, Togepi uses the positive emotions of compassion and pleasure exuded by people and Pokémon. This Pokémon stores up feelings of happiness inside its shell, then shares them with others."
+    },
+    {
+        "id": 176,
+        "name": "Togetic",
+        "types": ["Fairy", "Flying"],
+        "weight": "3.2 kg",
+        "height": "0.6 m",
+        "hp": 55,
+        "imageUrl": "https://serebii.net/pokemon/art/176.png",
+        "description": "Togetic is said to be a Pokémon that brings good fortune. When the Pokémon spots someone who is pure of heart, it is said to appear and share its happiness with that person."
+    },
+    {
+        "id": 177,
+        "name": "Natu",
+        "types": ["Psychic", "Flying"],
+        "weight": "2.0 kg",
+        "height": "0.2 m",
+        "hp": 40,
+        "imageUrl": "https://serebii.net/pokemon/art/177.png",
+        "description": "Natu has a highly developed jumping ability. The Pokémon flaps and leaps onto tree branches where it camouflages itself among leaves that are the same color as its body. It is said that this Pokémon will begin to cry loudly if it becomes startled by a sudden flash of light."
+    },
+    {
+        "id": 178,
+        "name": "Xatu",
+        "types": ["Psychic", "Flying"],
+        "weight": "15.0 kg",
+        "height": "1.5 m",
+        "hp": 65,
+        "imageUrl": "https://serebii.net/pokemon/art/178.png",
+        "description": "Xatu stands rooted and still in one spot all day long. People believe that this Pokémon does so out of fear of the terrible things it has foreseen in the future."
+    },
+    {
+        "id": 179,
+        "name": "Mareep",
+        "types": ["Electric"],
+        "weight": "7.8 kg",
+        "height": "0.6 m",
+        "hp": 55,
+        "imageUrl": "https://serebii.net/pokemon/art/179.png",
+        "description": "Mareep's fluffy coat of wool rubs together and builds a static charge. The more static electricity is charged, the more brightly the lightbulb at the tip of its tail grows."
+    },
+    {
+        "id": 180,
+        "name": "Flaaffy",
+        "types": ["Electric"],
+        "weight": "13.3 kg",
+        "height": "0.8 m",
+        "hp": 70,
+        "imageUrl": "https://serebii.net/pokemon/art/180.png",
+        "description": "As a result of storing too much electricity, it developed patches where even downy wool won't grow. They get along lightning Pokémon well."
+    },
+    {
+        "id": 181,
+        "name": "Ampharos",
+        "types": ["Electric"],
+        "weight": "61.5 kg",
+        "height": "1.4 m",
+        "hp": 90,
+        "imageUrl": "https://serebii.net/pokemon/art/181.png",
+        "description": "Ampharos gives off so much light that it can be seen even from space. People in the old days used the light of this Pokémon to send signals back and forth with others far away."
+    },
+    {
+        "id": 182,
+        "name": "Bellossom",
+        "types": ["Grass"],
+        "weight": "5.8 kg",
+        "height": "0.4 m",
+        "hp": 75,
+        "imageUrl": "https://serebii.net/pokemon/art/182.png",
+        "description": "When Bellossom gets exposed to plenty of sunlight, the leaves ringing its body begin to spin around. This Pokémon's dancing is renowned in the southern lands."
+    },
+    {
+        "id": 183,
+        "name": "Marill",
+        "types": ["Water", "Fairy"],
+        "weight": "8.5 kg",
+        "height": "0.4 m",
+        "hp": 70,
+        "imageUrl": "https://serebii.net/pokemon/art/183.png",
+        "description": "Marill's oil-filled tail acts much like a life preserver. If you see just its tail bobbing on the water's surface, it's a sure indication that this Pokémon is diving beneath the water to feed on aquatic plants."
+    },
+    {
+        "id": 184,
+        "name": "Azumarill",
+        "types": ["Water", "Fairy"],
+        "weight": "28.5 kg",
+        "height": "0.8 m",
+        "hp": 100,
+        "imageUrl": "https://serebii.net/pokemon/art/184.png",
+        "description": "Azumarill's long ears are indispensable sensors. By focusing its hearing, this Pokémon can identify what kinds of prey are around, even in rough and fast-running rivers."
+    },
+    {
+        "id": 185,
+        "name": "Sudowoodo",
+        "types": ["Rock"],
+        "weight": "38.0 kg",
+        "height": "1.2 m",
+        "hp": 70,
+        "imageUrl": "https://serebii.net/pokemon/art/185.png",
+        "description": "Despite appearing to be a tree, its body is closer to rocks and stones. It is very weak to water and can't stand it."
+    },
+    {
+        "id": 186,
+        "name": "Politoed",
+        "types": ["Water"],
+        "weight": "33.9 kg",
+        "height": "1.1 m",
+        "hp": 90,
+        "imageUrl": "https://serebii.net/pokemon/art/186.png",
+        "description": "If Poliwhirl hears the sound of approaching footsteps, it will predictively cross its arms and start to jiggle. This Pokémon's swirl is its trademark."
+    },
+    {
+        "id": 187,
+        "name": "Hoppip",
+        "types": ["Grass", "Flying"],
+        "weight": "0.5 kg",
+        "height": "0.4 m",
+        "hp": 35,
+        "imageUrl": "https://serebii.net/pokemon/art/187.png",
+        "description": "Hoppip's body is so light, it must grip the ground firmly with its feet to keep from being blown away. This Pokémon can be blown away to great distances."
+    },
+    {
+        "id": 188,
+        "name": "Skiploom",
+        "types": ["Grass", "Flying"],
+        "weight": "1.0 kg",
+        "height": "0.6 m",
+        "hp": 55,
+        "imageUrl": "https://serebii.net/pokemon/art/188.png",
+        "description": "Skiploom's flower blossoms when the temperature rises above 64 degrees Fahrenheit. How much the flower opens depends on the temperature. For that reason, this Pokémon is sometimes used as a thermometer."
+    },
+    {
+        "id": 189,
+        "name": "Jumpluff",
+        "types": ["Grass", "Flying"],
+        "weight": "3.0 kg",
+        "height": "0.8 m",
+        "hp": 75,
+        "imageUrl": "https://serebii.net/pokemon/art/189.png",
+        "description": "Jumpluff rides warm southern winds to cross the sea and fly to foreign lands. The Pokémon descends to the ground when it encounters cold air while it is floating."
+    },
+    {
+        "id": 190,
+        "name": "Aipom",
+        "types": ["Normal"],
+        "weight": "11.5 kg",
+        "height": "0.8 m",
+        "hp": 55,
+        "imageUrl": "https://serebii.net/pokemon/art/190.png",
+        "description": "Aipom's tail ends in a hand-like appendage that can be cleverly manipulated. However, because the Pokémon uses its tail so much, its real hands have become rather clumsy."
+    },
+    {
+        "id": 191,
+        "name": "Sunkern",
+        "types": ["Grass"],
+        "weight": "1.8 kg",
+        "height": "0.3 m",
+        "hp": 30,
+        "imageUrl": "https://serebii.net/pokemon/art/191.png",
+        "description": "Sunkern tries to move as little as it possibly can. It does so because it tries to conserve all the nutrients it has stored in its body for its evolution. It will not eat a thing, subsisting only on morning dew."
+    },
+    {
+        "id": 192,
+        "name": "Sunflora",
+        "types": ["Grass"],
+        "weight": "8.5 kg",
+        "height": "0.8 m",
+        "hp": 75,
+        "imageUrl": "https://serebii.net/pokemon/art/192.png",
+        "description": "Sunflora converts solar energy into nutrition. It moves around actively in the daytime when it is warm. It stops moving as soon as the sun goes down for the night."
+    },
+    {
+        "id": 193,
+        "name": "Yanma",
+        "types": ["Bug", "Flying"],
+        "weight": "38.0 kg",
+        "height": "1.2 m",
+        "hp": 65,
+        "imageUrl": "https://serebii.net/pokemon/art/193.png",
+        "description": "Yanma is capable of seeing 360 degrees without having to move its eyes. It is a great flier that is adept at making sudden stops and turning midair. This Pokémon uses its flying ability to quickly chase down targeted prey."
+    },
+    {
+        "id": 194,
+        "name": "Wooper",
+        "types": ["Water", "Ground"],
+        "weight": "8.5 kg",
+        "height": "0.4 m",
+        "hp": 55,
+        "imageUrl": "https://serebii.net/pokemon/art/194.png",
+        "description": "Wooper usually lives in water. However, it occasionally comes out onto land in search of food. On land, it coats its body with a gooey, toxic film."
+    },
+{
+        "id": 195,
+        "name": "Quagsire",
+        "types": ["Water", "Ground"],
+        "weight": "75.0 kg",
+        "height": "1.4 m",
+        "hp": 95,
+        "imageUrl": "https://serebii.net/pokemon/art/195.png",
+        "description": "Quagsire hunts for food by leaving its mouth wide open in water and waiting for its prey to blunder in unaware. Because the Pokémon does not move, it does not get very hungry."
+    },
+    {
+        "id": 196,
+        "name": "Espeon",
+        "types": ["Psychic"],
+        "weight": "58.0 kg",
+        "height": "0.9 m",
+        "hp": 65,
+        "imageUrl": "https://serebii.net/pokemon/art/196.png",
+        "description": "Espeon is extremely loyal to any trainer it considers to be worthy. It is said that this Pokémon developed its precognitive powers to protect its trainer from harm."
+    },
+    {
+        "id": 197,
+        "name": "Umbreon",
+        "types": ["Dark"],
+        "weight": "27.0 kg",
+        "height": "1.0 m",
+        "hp": 95,
+        "imageUrl": "https://serebii.net/pokemon/art/197.png",
+        "description": "Umbreon evolved from exposure to the moon's energy pulses. It lurks in darkness and waits for its foes to move. The rings on its body glow when it leaps to attack."
+    },
+    {
+        "id": 198,
+        "name": "Murkrow",
+        "types": ["Dark", "Flying"],
+        "weight": "2.1 kg",
+        "height": "0.5 m",
+        "hp": 60,
+        "imageUrl": "https://serebii.net/pokemon/art/198.png",
+        "description": "Murkrow was feared and loathed as the alleged bearer of ill fortune. This Pokémon shows strong interest in anything that sparkles or glitters. It will even try to steal rings from women."
+    },
+    {
+        "id": 199,
+        "name": "Slowking",
+        "types": ["Water", "Psychic"],
+        "weight": "79.5 kg",
+        "height": "2.0 m",
+        "hp": 95,
+        "imageUrl": "https://serebii.net/pokemon/art/199.png",
+        "description": "Slowking undertakes research every day in an effort to solve the mysteries of the world. However, this Pokémon apparently forgets everything it has learned if the Shellder on its head comes off."
+    },
+    {
+        "id": 200,
+        "name": "Misdreavous",
+        "types": ["Ghost"],
+        "weight": "1.0 kg",
+        "height": "0.7 m",
+        "hp": 60,
+        "imageUrl": "https://serebii.net/pokemon/art/200.png",
+        "description": "Misdreavous frightens people with a creepy, sobbing cry. The Pokémon apparently uses its red spheres to absorb the fearful feelings of foes and turn them into nutrition."
+    },
+    {
+        "id": 201,
+        "name": "Unown",
+        "types": ["Psychic"],
+        "weight": "5.0 kg",
+        "height": "0.5 m",
+        "hp": 48,
+        "imageUrl": "https://serebii.net/pokemon/art/201.png",
+        "description": "This Pokémon is shaped like ancient writing. It is a mystery as to which came first, the ancient writings or the various Unown. Research into this topic is ongoing but nothing is known."
+    },
+    {
+        "id": 202,
+        "name": "Wobbuffet",
+        "types": ["Psychic"],
+        "weight": "28.5 kg",
+        "height": "1.3 m",
+        "hp": 190,
+        "imageUrl": "https://serebii.net/pokemon/art/202.png",
+        "description": "Wobbuffet does nothing but endure attacks—it won't attack on its own. However, it won't endure an attack on its tail. When that happens, the Pokémon will try to take the foe with it using Destiny Bond."
+    },
+    {
+        "id": 203,
+        "name": "Girafarig",
+        "types": ["Normal", "Psychic"],
+        "weight": "41.5 kg",
+        "height": "1.5 m",
+        "hp": 70,
+        "imageUrl": "https://serebii.net/pokemon/art/203.png",
+        "description": "Girafarig's rear head also has a brain, but it is small. The rear head attacks in response to smells and sounds. Approaching this Pokémon from behind can cause the rear head to suddenly lash out and bite."
+    },
+    {
+        "id": 204,
+        "name": "Pineco",
+        "types": ["Bug"],
+        "weight": "7.2 kg",
+        "height": "0.6 m",
+        "hp": 50,
+        "imageUrl": "https://serebii.net/pokemon/art/204.png",
+        "description": "Pineco hangs from a tree branch and patiently waits for prey to come along. If the Pokémon is disturbed while eating by someone shaking its tree, it drops down to the ground and explodes with no warning."
+    },
+    {
+        "id": 205,
+        "name": "Forretress",
+        "types": ["Bug", "Steel"],
+        "weight": "125.8 kg",
+        "height": "1.2 m",
+        "hp": 75,
+        "imageUrl": "https://serebii.net/pokemon/art/205.png",
+        "description": "Forretress conceals itself inside its hardened steel shell. The shell is opened when the Pokémon is catching prey, but it does so at such a quick pace that the shell's inside cannot be seen."
+    },
+    {
+        "id": 206,
+        "name": "Dunsparce",
+        "types": ["Normal"],
+        "weight": "14.0 kg",
+        "height": "1.5 m",
+        "hp": 100,
+        "imageUrl": "https://serebii.net/pokemon/art/206.png",
+        "description": "Dunsparce has a drill for its tail. It uses this tail to burrow into the ground backward. This Pokémon is known to make its nest in complex shapes deep underground."
+    }, 
+    {
+        "id": 207,
+        "name": "Gligar",
+        "types": ["Ground", "Flying"],
+        "weight": "64.8 kg",
+        "height": "1.1 m",
+        "hp": 65,
+        "imageUrl": "https://serebii.net/pokemon/art/207.png",
+        "description": "Gligar glides through the air without a sound as if it were sliding. This Pokémon hangs on to the face of its foe using its clawed hind legs and the large pincers on its forelegs, then injects the prey with its poison barb."
+    },
+    {
+        "id": 208,
+        "name": "Steelix",
+        "types": ["Steel", "Ground"],
+        "weight": "400.0 kg",
+        "height": "9.2 m",
+        "hp": 75,
+        "imageUrl": "https://serebii.net/pokemon/art/208.png",
+        "description": "Steelix lives even further underground than Onix. This Pokémon is known to dig toward the earth's core. There are records of this Pokémon reaching a depth of over six-tenths of a mile underground."
+    },
+    {
+        "id": 209,
+        "name": "Snubbull",
+        "types": ["Fairy"],
+        "weight": "7.8 kg",
+        "height": "0.6 m",
+        "hp": 60,
+        "imageUrl": "https://serebii.net/pokemon/art/209.png",
+        "description": "Snubbull has an active, playful nature. Many women like to frolic with it because of its affectionate ways. However, it can be difficult to raise, as it requires much attention."
+    },
+    {
+        "id": 210,
+        "name": "Granbull",
+        "types": ["Fairy"],
+        "weight": "48.7 kg",
+        "height": "1.4 m",
+        "hp": 90,
+        "imageUrl": "https://serebii.net/pokemon/art/210.png",
+        "description": "Granbull has a particularly well-developed lower jaw. The enormous fangs are heavy, causing the Pokémon to tip its head back for balance. Unless it is startled, it will not try to bite indiscriminately."
+    },
+    {
+        "id": 211,
+        "name": "Qwilfish",
+        "types": ["Water", "Poison"],
+        "weight": "3.9 kg",
+        "height": "0.5 m",
+        "hp": 65,
+        "imageUrl": "https://serebii.net/pokemon/art/211.png",
+        "description": "Qwilfish sucks in water, inflating itself. This Pokémon uses the pressure of the water it swallowed to shoot toxic quills all at once from all over its body. It finds swimming somewhat challenging."
+    },
+    {
+        "id": 212,
+        "name": "Scizor",
+        "types": ["Bug", "Steel"],
+        "weight": "118.0 kg",
+        "height": "1.8 m",
+        "hp": 70,
+        "imageUrl": "https://serebii.net/pokemon/art/212.png",
+        "description": "Scizor has a body with the hardness of steel. It is not easily fazed by ordinary sorts of attacks. This Pokémon flaps its wings to regulate its body temperature."
+    },
+    {
+        "id": 213,
+        "name": "Shuckle",
+        "types": ["Bug", "Rock"],
+        "weight": "20.5 kg",
+        "height": "0.6 m",
+        "hp": 20,
+        "imageUrl": "https://serebii.net/pokemon/art/213.png",
+        "description": "Shuckle quietly hides itself under rocks, keeping its body concealed inside its hard shell while eating berries it has stored away. The berries mix with its body fluids to become a juice."
+    },
+    {
+        "id": 214,
+        "name": "Heracross",
+        "types": ["Bug", "Fighting"],
+        "weight": "54.0 kg",
+        "height": "1.5 m",
+        "hp": 80,
+        "imageUrl": "https://serebii.net/pokemon/art/214.png",
+        "description": "Heracross charges in a straight line at its foe, slips beneath the foe's grasp, and then scoops up and hurls the opponent with its mighty horn. This Pokémon even has enough power to topple a massive tree."
+    },
+    {
+        "id": 215,
+        "name": "Sneasel",
+        "types": ["Dark", "Ice"],
+        "weight": "28.0 kg",
+        "height": "0.9 m",
+        "hp": 55,
+        "imageUrl": "https://serebii.net/pokemon/art/215.png",
+        "description": "Sneasel scales trees by punching its hooked claws into the bark. This Pokémon seeks out unguarded nests and steals eggs for food while the parents are away."
+    },
+    {
+        "id": 216,
+        "name": "Teddiursa",
+        "types": ["Normal"],
+        "weight": "8.8 kg",
+        "height": "0.6 m",
+        "hp": 60,
+        "imageUrl": "https://serebii.net/pokemon/art/216.png",
+        "description": "This Pokémon likes to lick its palms that are sweetened by being soaked in honey. Teddiursa concocts its own honey by blending fruits and pollen collected by Beedrill."
+    },
+    {
+        "id": 217,
+        "name": "Ursaring",
+        "types": ["Normal"],
+        "weight": "125.8 kg",
+        "height": "1.8 m",
+        "hp": 90,
+        "imageUrl": "https://serebii.net/pokemon/art/217.png",
+        "description": "In the forests inhabited by Ursaring, it is said that there are many streams and towering trees where they gather food. This Pokémon walks through its forest gathering food every day."
+    },
+    {
+        "id": 218,
+        "name": "Slugma",
+        "types": ["Fire"],
+        "weight": "35.0 kg",
+        "height": "0.7 m",
+        "hp": 40,
+        "imageUrl": "https://serebii.net/pokemon/art/218.png",
+        "description": "Molten magma courses throughout Slugma's circulatory system. If this Pokémon is chilled, the magma cools and hardens. Its body turns brittle and chunks fall off, reducing its size."
+    },
+ {
+        "id": 219,
+        "name": "Magcargo",
+        "types": ["Fire", "Rock"],
+        "weight": "55.0 kg",
+        "height": "0.8 m",
+        "hp": 60,
+        "imageUrl": "https://serebii.net/pokemon/art/219.png",
+        "description": "Magcargo's shell is actually its skin that hardened as a result of cooling. Its shell is very brittle and fragile—just touching it causes it to crumble apart. This Pokémon returns to its original size by dipping itself in magma."
+    },
+    {
+        "id": 220,
+        "name": "Swinub",
+        "types": ["Ice", "Ground"],
+        "weight": "6.5 kg",
+        "height": "0.4 m",
+        "hp": 50,
+        "imageUrl": "https://serebii.net/pokemon/art/220.png",
+        "description": "Swinub roots for food by rubbing its snout against the ground. Its favorite food is a mushroom that grows under the cover of dead grass. This Pokémon occasionally roots out hot springs."
+    },
+    {
+        "id": 221,
+        "name": "Piloswine",
+        "types": ["Ice", "Ground"],
+        "weight": "55.8 kg",
+        "height": "1.1 m",
+        "hp": 100,
+        "imageUrl": "https://serebii.net/pokemon/art/221.png",
+        "description": "Piloswine is covered by a thick coat of long hair that enables it to endure the freezing cold. This Pokémon uses its tusks to dig up food that has been buried under ice."
+    },
+    {
+        "id": 222,
+        "name": "Corsola",
+        "types": ["Water", "Rock"],
+        "weight": "5.0 kg",
+        "height": "0.6 m",
+        "hp": 55,
+        "imageUrl": "https://serebii.net/pokemon/art/222.png",
+        "description": "Corsola's branches glitter very beautifully in seven colors when they catch sunlight. If any branch breaks off, this Pokémon grows it back in just one night."
+    },
+    {
+        "id": 223,
+        "name": "Remoraid",
+        "types": ["Water"],
+        "weight": "12.0 kg",
+        "height": "0.6 m",
+        "hp": 35,
+        "imageUrl": "https://serebii.net/pokemon/art/223.png",
+        "description": "Remoraid sucks in water, then expels it at high velocity using its abdominal muscles to shoot down flying prey. When evolution draws near, this Pokémon travels downstream from rivers."
+    },
+    {
+        "id": 224,
+        "name": "Octillery",
+        "types": ["Water"],
+        "weight": "28.5 kg",
+        "height": "0.9 m",
+        "hp": 75,
+        "imageUrl": "https://serebii.net/pokemon/art/224.png",
+        "description": "Octillery grabs onto its foe using its tentacles. This Pokémon tries to immobilize it before delivering the finishing blow. If the foe turns out to be too strong, Octillery spews ink to escape."
+    },
+    {
+        "id": 225,
+        "name": "Delibird",
+        "types": ["Ice", "Flying"],
+        "weight": "16.0 kg",
+        "height": "0.9 m",
+        "hp": 45,
+        "imageUrl": "https://serebii.net/pokemon/art/225.png",
+        "description": "Delibird carries its food bundled up in its tail. There once was a famous explorer who managed to reach the peak of the world's highest mountain, thanks to one of these Pokémon sharing its food."
+    },
+    {
+        "id": 226,
+        "name": "Mantine",
+        "types": ["Water", "Flying"],
+        "weight": "220.0 kg",
+        "height": "2.1 m",
+        "hp": 85,
+        "imageUrl": "https://serebii.net/pokemon/art/226.png",
+        "description": "On sunny days, schools of Mantine can be seen elegantly leaping over the sea's waves. This Pokémon is not bothered by the Remoraid that hitches rides."
+    },
+    {
+        "id": 227,
+        "name": "Skarmory",
+        "types": ["Steel", "Flying"],
+        "weight": "50.5 kg",
+        "height": "1.7 m",
+        "hp": 65,
+        "imageUrl": "https://serebii.net/pokemon/art/227.png",
+        "description": "Skarmory is entirely encased in hard, protective armor. This Pokémon flies at close to 190 mph. It slashes foes with its wings that possess swordlike cutting edges."
+    },
+    {
+        "id": 228,
+        "name": "Houndour",
+        "types": ["Dark", "Fire"],
+        "weight": "10.8 kg",
+        "height": "0.6 m",
+        "hp": 45,
+        "imageUrl": "https://serebii.net/pokemon/art/228.png",
+        "description": "Houndour hunt as a coordinated pack. They communicate with each other using a variety of cries to corner their prey. This Pokémon's remarkable teamwork is unparalleled."
+    },
+    {
+        "id": 229,
+        "name": "Houndoom",
+        "types": ["Dark", "Fire"],
+        "weight": "35.0 kg",
+        "height": "1.4 m",
+        "hp": 75,
+        "imageUrl": "https://serebii.net/pokemon/art/229.png",
+        "description": "In a Houndoom pack, the one with its horns raked sharply back serves a leadership role. They choose their leader by fighting among themselves."
+    },
+    {
+        "id": 230,
+        "name": "Kingdra",
+        "types": ["Water", "Dragon"],
+        "weight": "152.0 kg",
+        "height": "1.8 m",
+        "hp": 75,
+        "imageUrl": "https://serebii.net/pokemon/art/230.png",
+        "description": "Kingdra lives at extreme ocean depths that are otherwise uninhabited. It has long been believed that the yawning of this Pokémon creates spiraling ocean currents."
+    },
+    {
+        "id": 231,
+        "name": "Phanpy",
+        "types": ["Ground"],
+        "weight": "33.5 kg",
+        "height": "0.5 m",
+        "hp": 90,
+        "imageUrl": "https://serebii.net/pokemon/art/231.png",
+        "description": "Phanpy uses its long nose to shower itself. When others gather around, they thoroughly douse each other with water. These Pokémon can be seen drying their soaking-wet bodies at the edge of water."
+    },
+    {
+        "id": 232,
+        "name": "Donphan",
+        "types": ["Ground"],
+        "weight": "120.0 kg",
+        "height": "1.1 m",
+        "hp": 90,
+        "imageUrl": "https://serebii.net/pokemon/art/232.png",
+        "description": "Donphan's favorite attack is curling its body into a ball, then charging at its foe while rolling at high speed. Once it starts rolling, this Pokémon can't stop very easily."
+    },
+    {
+        "id": 233,
+        "name": "Porygon2",
+        "types": ["Normal"],
+        "weight": "32.5 kg",
+        "height": "0.6 m",
+        "hp": 85,
+        "imageUrl": "https://serebii.net/pokemon/art/233.png",
+        "description": "In the United States, it was programmed for space exploration. To make it move, it uses anti-gravity. Its gaming software was updated to create an augmented reality."
+    },
+    {
+        "id": 234,
+        "name": "Stantler",
+        "types": ["Normal"],
+        "weight": "71.2 kg",
+        " height": "1.4 m",
+        "hp": 73,
+        "imageUrl": "https://serebii.net/pokemon/art/234.png",
+        "description": "The curved antlers subtly change the flow of air to create a strange space where reality is distorted. It was born when a black stain touched an ordinary deer."
+    },
+    {
+        "id": 235,
+        "name": "Smeargle",
+        "types": ["Normal"],
+        "weight": "58.0 kg",
+        "height": "1.2 m",
+        "hp": 55,
+        "imageUrl": "https://serebii.net/pokemon/art/235.png",
+        "description": "Smeargle marks the boundaries of its territory using a body fluid that leaks out from the tip of its tail. Over 5,000 different marks left by this Pokémon have been found."
+    },
+    {
+        "id": 236,
+        "name": "Tyrogue",
+        "types": ["Fighting"],
+        "weight": "21.0 kg",
+        "height": "0.7 m",
+        "hp": 35,
+        "imageUrl": "https://serebii.net/pokemon/art/236.png",
+        "description": "Tyrogue becomes stressed out if it does not get to train every day. When raising this Pokémon, the Trainer must establish and uphold various training methods."
+    },
+    {
+        "id": 237,
+        "name": "Hitmontop",
+        "types": ["Fighting"],
+        "weight": "48.0 kg",
+        "height": "1.4 m",
+        "hp": 50,
+        "imageUrl": "https://serebii.net/pokemon/art/237.png",
+        "description": "Hitmontop spins on its head at high speed, all the while delivering kicks. This technique is a remarkable mix of both offense and defense at the same time."
+    },
+    {
+        "id": 238,
+        "name": "Smoochum",
+        "types": ["Ice", "Psychic"],
+        "weight": "6.0 kg",
+        "height": "0.4 m",
+        "hp": 45,
+        "imageUrl": "https://serebii.net/pokemon/art/238.png",
+        "description": "Smoochum actively runs about, but also falls quite often. Whenever the chance arrives, it will look for its reflection to make sure its face hasn't become dirty."
+    },
+    {
+        "id": 239,
+        "name": "Elekid",
+        "types": ["Electric"],
+        "weight": "23.5 kg",
+        "height": "0.6 m",
+        "hp": 45,
+        "imageUrl": "https://serebii.net/pokemon/art/239.png",
+        "description": "Elekid stores electricity in its body. If it touches metal and accidentally discharges all its built-up electricity, this Pokémon begins swinging its arms in circles to recharge itself."
+    },
+    {
+        "id": 240,
+        "name": "Magby",
+        "types": ["Fire"],
+        "weight": "21.4 kg",
+        "height": "0.7 m",
+        "hp": 45,
+        "imageUrl": "https://serebii.net/pokemon/art/240.png",
+        "description": "Magby's state of health is determined by observing the fire it breathes. If the Pokémon is spouting yellow flames from its mouth, it is in good health. When it is fatigued, black smoke will be mixed in with the flames."
+    },
+    {
+        "id": 241,
+        "name": "Miltank",
+        "types": ["Normal"],
+        "weight": "75.5 kg",
+        "height": "1.2 m",
+        "hp": 95,
+        "imageUrl": "https://serebii.net/pokemon/art/241.png",
+        "description": "Miltank gives over five gallons of milk on a daily basis. Its sweet milk is enjoyed by children and grown-ups alike. People who can't drink milk turn it into yogurt and eat it instead."
+    },
+    {
+        "id": 242,
+        "name": "Blissey",
+        "types": ["Normal"],
+        "weight": "46.8 kg",
+        "height": "1.5 m",
+        "hp": 255,
+        "imageUrl": "https://serebii.net/pokemon/art/242.png",
+        "description": "Blissey senses sadness with its fluffy coat of fur. If it does so, this Pokémon will rush over to a sad person, no matter how far away, to share a Lucky Egg that brings a smile to any face."
+    },
+    {
+        "id": 243,
+        "name": "Raikou",
+        "types": ["Electric"],
+        "weight": "178.0 kg",
+        "height": "1.9 m",
+        "hp": 90,
+        "imageUrl": "https://serebii.net/pokemon/art/243.png",
+        "description": "Raikou embodies the speed of lightning. The roars of this Pokémon send shock waves shuddering through the air and shake the ground as if lightning bolts had come crashing down."
+    },
+    {
+        "id": 244,
+        "name": "Entei",
+        "types": ["Fire"],
+        "weight": "198.0 kg",
+        "height": "2.1 m",
+        "hp": 115,
+        "imageUrl": "https://serebii.net/pokemon/art/244.png",
+        "description": "Entei embodies the passion of magma. This Pokémon is thought to have been born in the eruption of a volcano. It sends up massive bursts of fire that utterly consume all that they touch."
+    },
+    {
+        "id": 245,
+        "name": "Suicune",
+        "types": ["Water"],
+        "weight": "187.0 kg",
+        "height": "2.0 m",
+        "hp": 100,
+        "imageUrl": "https://serebii.net/pokemon/art/245.png",
+        "description": "Suicune embodies the compassion of a pure spring of water. It runs across the land with gracefulness. This Pokémon has the power to purify dirty water."
+    },
+    {
+        "id": 246,
+        "name": "Larvitar",
+        "types": ["Rock", "Ground"],
+        "weight": "72.0 kg",
+        "height": "0.6 m",
+        "hp": 50,
+        "imageUrl": "https://serebii.net/pokemon/art/246.png",
+        "description": "Larvitar is born deep under the ground. To come up to the surface, this Pokémon must eat its way through the soil above. Until it does so, Larvitar cannot see its parents."
+    },
+    {
+        "id": 247,
+        "name": "Pupitar",
+        "types": ["Rock", "Ground"],
+        "weight": "152.0 kg",
+        "height": "1.2 m",
+        "hp": 70,
+        "imageUrl": "https://serebii.net/pokemon/art/247.png",
+        "description": "Pupitar creates a gas inside its body that it compresses and forcefully ejects to propel itself like a jet. The body is very durable—it avoids damage even if it hits solid steel."
+    },
+    {
+        "id": 248,
+        "name": "Tyranitar",
+        "types": ["Rock", "Dark"],
+        "weight": "202.0 kg",
+        "height": "2.0 m",
+        "hp": 100,
+        "imageUrl": "https://serebii.net/pokemon/art/248.png",
+        "description": "Tyranitar is so overwhelmingly powerful, it can bring down a whole mountain to make its nest. This Pokémon wanders about in mountains seeking new opponents to fight."
+    },
+    {
+        "id": 249,
+        "name": "Lugia",
+        "types": ["Psychic", "Flying"],
+        "weight": "216.0 kg",
+        "height": "5.2 m",
+        "hp": 106,
+        "imageUrl": "https://serebii.net/pokemon/art/249.png",
+        "description": "Lugia's wings pack devastating power—a light fluttering of its wings can blow apart regular houses. As a result, this Pokémon chooses to live out of sight deep under the sea."
+    },
+    {
+        "id": 250,
+        "name": "Ho-Oh",
+        "types": ["Fire", "Flying"],
+        "weight": "199.0 kg",
+        "height": "3.8 m",
+        "hp": 106,
+        "imageUrl": "https://serebii.net/pokemon/art/250.png",
+        "description": "Ho-Oh's feathers glow in seven colors depending on the angle at which they are struck by light. These feathers are said to bring happiness to the bearers. This Pokémon is said to live at the foot of a rainbow."
+    },
+    {
+    "id": 251,
+    "name": "Celebi",
+    "types": ["Psychic", "Grass"],
+    "weight": "5.0 kg",
+    "height": "0.6 m",
+    "hp": 100,
+    "imageUrl": "https://serebii.net/pokemon/art/251.png",
+    "description": "Celebi has the power to travel across time. It is said that it appears in peaceful times to bring joy to the hearts of people and Pokémon. It has the ability to instantly cause the growth of any forest."
+    }
+  ]
 }
